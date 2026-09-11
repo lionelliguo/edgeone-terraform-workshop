@@ -117,3 +117,5 @@ Terraform 部分保持精简，只讲完成实验所需的 Provider、resource�
 
 © 2026 Lionel Guo · lionelliguo@gmail.com  
 保留所有权利。
+
+<!-- Initial EdgeOne Terraform workshop -->

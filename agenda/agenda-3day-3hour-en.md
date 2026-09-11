@@ -117,3 +117,5 @@ By the end of the training, participants should complete:
 
 © 2026 Lionel Guo · lionelliguo@gmail.com  
 All rights reserved.
+
+<!-- Initial EdgeOne Terraform workshop -->
