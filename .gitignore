@@ -1,0 +1,21 @@
+# © 2026 Lionel Guo · lionelliguo@gmail.com. All rights reserved.
+
+# Local credentials and lab-specific real values.
+terraform.tfvars
+credentials.auto.tfvars
+*.auto.tfvars
+!credentials.auto.tfvars.example
+
+# Terraform local working files.
+.terraform/
+.terraform.lock.hcl
+*.tfstate.backup
+*.tfstate.lock.info
+.terraform.tfstate.lock.info
+crash.log
+crash.*.log
+
+# OS/editor temporary files.
+.DS_Store
+*~
+*.tmp

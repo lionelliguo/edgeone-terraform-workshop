@@ -1,0 +1,5 @@
+# © 2026 Lionel Guo · lionelliguo@gmail.com. All rights reserved.
+terraform.tfvars
+credentials.auto.tfvars
+*.auto.tfvars
+!credentials.auto.tfvars.example

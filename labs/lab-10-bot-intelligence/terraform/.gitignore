@@ -1,0 +1,11 @@
+# © 2026 Lionel Guo · lionelliguo@gmail.com. All rights reserved.
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.*
+crash.log
+crash.*.log
+*.tfplan
+credentials.auto.tfvars
+*.auto.tfvars
+!credentials.auto.tfvars.example

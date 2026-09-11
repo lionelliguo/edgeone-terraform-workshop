@@ -1,0 +1,21 @@
+# © 2026 Lionel Guo · lionelliguo@gmail.com. All rights reserved.
+zone_name       = "example.com"
+alias_zone_name = "example.com-workshop"
+sub_domain      = "www"
+plan_id         = "edgeone-xxxxxxxxxxxx"
+origin          = "203.0.113.10"
+
+area                       = "overseas"
+origin_type                = "IP_DOMAIN"
+origin_host_header         = null
+auto_create_dnspod_records = false
+enable_certificate         = true
+certificate_mode           = "eofreecert"
+ssl_cert_id                = null
+enable_l7_rules            = true
+enable_security_policy     = true
+enable_version_deploy      = true
+
+# Optional: fill these after Lab 12 enables version control and outputs discovered IDs.
+# version_group_id = "cg-xxxxxxxxxxxx"
+# version_env_id   = "env-xxxxxxxxxxxx"
