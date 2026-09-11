@@ -1,7 +1,6 @@
 # Tencent Cloud EdgeOne Terraform Workshop
 
-3-Day Training Agenda: 3 Hours per Day, EdgeOne Hands-on Focus  
-Version date: 2026-08-01
+3-Day Training Agenda: 3 Hours per Day, EdgeOne Hands-on Focus
 
 ## Positioning
 

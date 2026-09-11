@@ -1,6 +1,5 @@
-# Tencent Cloud EdgeOne Terraform Workshop Package Guide
+# Tencent Cloud EdgeOne Terraform Workshop
 
-Version date: 2026-08-01  
 Mapped agenda: 3-day training, 3 hours per day, EdgeOne hands-on focused
 
 ## Package Goal
