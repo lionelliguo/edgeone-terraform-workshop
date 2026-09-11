@@ -25,8 +25,8 @@ By the end of the workshop, participants should be able to:
 
 ```text
 edgeone-terraform-workshop/
-  workshop-package-guide-cn.md
-  workshop-package-guide-en.md
+  edgeone-terraform-workshop-cn.md
+  edgeone-terraform-workshop-en.md
   agenda/
     agenda-3day-3hour-cn.md
     agenda-3day-3hour-en.md
