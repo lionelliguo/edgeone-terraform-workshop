@@ -108,7 +108,7 @@ edgeone-terraform-workshop/
     shared-readme-en.md
 ```
 
-## Lab Goal
+## Lab 目标
 
 ### Lab 01：Provider 初始化
 
