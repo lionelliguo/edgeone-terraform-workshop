@@ -1,7 +1,6 @@
 # Tencent Cloud EdgeOne Terraform Workshop
 
-3 天培训 Agenda：每天 3 小时，EdgeOne 实操优先版  
-版本日期：2026-08-01
+3 天培训 Agenda：每天 3 小时，EdgeOne 实操优先版
 
 ## 培训定位
 
